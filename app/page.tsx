@@ -6,7 +6,7 @@ import Image from 'next/image';
 // Before (bcrypt)
 const bcrypt = require("bcrypt");
 // After (bcryptjs)
-const bcrypt = require("bcryptjs"
+const bcrypt = require("bcryptjs");
 
 export default function Page() {
   return (
